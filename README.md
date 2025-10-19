@@ -3,7 +3,7 @@
 App para sortear papéis de Xerife, Assassino e Inocente.
 
 ## 🚀 Como Usar
-1. Acesse: https://willowsawine-2f2b79.netlify.app
+1. Acesse: https://68f55bad2c853c2d86ff5ff7--willowy-sawine-2f2b79.netlify.app/
 2. Instale como PWA no celular
 3. Use o sorteio!
 
